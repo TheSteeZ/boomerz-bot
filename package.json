@@ -1,0 +1,10 @@
+{
+  "name": "discord-voice-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1",
+    "node-cron": "^3.0.0"
+  }
+}
